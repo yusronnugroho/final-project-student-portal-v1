@@ -3,7 +3,7 @@ import { Box, Button, Flex, Heading } from "@chakra-ui/react";
 
 const NavBar = () => {
   return (
-    <Box bg="gray.100" py={4}>
+    <Box bg="gray.200" py={4}>
       <Flex
         justify="space-between"
         align="center"

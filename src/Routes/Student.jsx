@@ -97,7 +97,7 @@ const Student = (props) => {
             <Box className="row">
               <TableContainer>
                 <Table id="table-student" className="test-table">
-                  <TableCaption>isi dewe</TableCaption>
+                  <TableCaption>Add Data</TableCaption>
                   <Thead className="test-thead">
                     <Tr>
                       <Th>No</Th>
@@ -110,7 +110,7 @@ const Student = (props) => {
                   <Tbody className="test-tbody">{RenderjsonStudent()}</Tbody>
                   <Tfoot>
                     <Tr>
-                      <Th>isi dewe</Th>
+                      <Th>Table</Th>
                     </Tr>
                   </Tfoot>
                 </Table>

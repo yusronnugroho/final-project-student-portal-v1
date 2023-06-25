@@ -6,9 +6,9 @@ const Footer = () => {
         align="center"
         justify="center"
         h="50px"
-        bg="gray.200"
+        bg="gray.300"
+        borderColor="gray.400"
         borderTop="1px solid"
-        borderColor="gray.300"
       >
         <Text className="studentName" mr={2}>
           Yusron Nugroho Aji
